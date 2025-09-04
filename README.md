@@ -201,17 +201,10 @@ print(i_60, q_peak)
 
 ---
 
-## Citation
-If you use this repository in your work, please cite as:  
-> Ridho Nanda Pratama (2025). *Hydrology Analysis: Reproducible Pipeline for Rainfall & Runoff Modeling*.  
-> URL: (insert repository link)
-
----
-
 ## Contact
 - **Author:** Ridho Nanda Pratama  
 - **Focus Areas:** Geoscience, Environmental Hydrology, Water Sustainability  
-- **Collaboration/Commercial Inquiries:** via LinkedIn or Email
+- **Collaboration/Commercial Inquiries:** via LinkedIn or Email: ridhonandapratama@gmail.com
 
 ---
 
